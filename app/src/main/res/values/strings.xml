@@ -1,0 +1,699 @@
+<resources>
+    <!--    Abdomen-->
+
+    <!--    Muscle Array-->
+
+    <string-array name="abdomen_Muscle" translatable="false">
+        <item>Transversus Abdominis, Rectus Abdominis, Internal Oblique, External Oblique Muscles</item>
+        <item>Rectus Abdominis, The Internal and External Oblique Muscles</item>
+        <item>Rectus Abdominis (your six-pack), External Obliques (your sides), The Hips</item>
+        <item>Shoulders, Hamstrings, Core, Triceps, Quads</item>
+        <item>Obliques, Rectus Abdominis, Transverse Abdominis, Hip Flexors, Erector Spinae, Scapular Muscles, Latissimus Dorsi</item>
+        <item>rectus abdominus,</item>
+        <item>Iliopsoas, Rectus Abdominis, Obliques</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+
+    <string-array name="abdomen_workout_name" translatable="false">
+        <item>Plank</item>
+        <item>Leg Raise</item>
+        <item>Bicycle Crunch</item>
+        <item>Mountain Climber</item>
+        <item>Russian Twists</item>
+        <item>Crunches</item>
+        <item>Hanging Leg Raise</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="abdomen_video" translatable="false">
+        <item>R.raw.plank</item>
+        <item>R.raw.lying_leg_raise_workout</item>
+        <item>R.raw.bicycle_twisting_workout</item>
+        <item>R.raw.mountain_climbers_workout</item>
+        <item>R.raw.dumbbell_russian_twist_workout</item>
+        <item>R.raw.crunches</item>
+        <item>R.raw.hanging_leg_raise</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="abdomen_thumbnail" translatable="false">
+        <item>R.drawable.plank</item>
+        <item>R.drawable.legraise</item>
+        <item>R.drawable.bicyclecrunch</item>
+        <item>R.drawable.mountainclimber</item>
+        <item>R.drawable.russiantwist</item>
+        <item>R.drawable.crunches</item>
+        <item>R.drawable.hanginglegraise</item>
+    </string-array>
+
+    <!--    Biceps & Forearm-->
+
+    <!--    Muscle Array-->
+    <string-array name="bicep_muscle" translatable="false">
+        <item>Biceps, The Brachialis, Brachioradialis</item>
+        <item>Biceps, The Brachialis, Brachioradialis</item>
+        <item>Biceps, The Brachialis, Brachioradialis</item>
+        <item>Biceps, Brachii</item>
+        <item>Biceps, Brachii, Brachialis</item>
+        <item>Triceps, Brachialis, Brachioradialis</item>
+        <item>The Forearms,</item>
+        <item>The Forearms,</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="bicep_workout_name" translatable="false">
+        <item>Dumbbell Curl</item>
+        <item>Incline Dumbbell Curl</item>
+        <item>Hammer Curl</item>
+        <item>Cabel Curl</item>
+        <item>Barbell Curl</item>
+        <item>Concentration Curl</item>
+        <item>Palms-up Wrist Curl</item>
+        <item>Palms-down Wrist Curl</item>
+    </string-array>
+
+    <!--    Video String Array    -->
+    <string-array name="bicep_video" translatable="false">
+        <item>R.raw.biceps_curls_with_dumbbells</item>
+        <item>R.raw.alternate_incline_dumbbell_curl_workout</item>
+        <item>R.raw.dumbbell_crossbody_hammer_curl_workout</item>
+        <item>R.raw.cable_biceps_curl_workout</item>
+        <item>R.raw.standing_barbell_curl_workout</item>
+        <item>R.raw.dumbbell_concentration_curl_workout</item>
+        <item>R.raw.dumbbell_reverse_wrist_curl_workout</item>
+        <item>R.raw.dumbbell_overbench_wrist_curl_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="bicep_thumbnail" translatable="false">
+        <item>R.drawable.dumbellcurls</item>
+        <item>R.drawable.inclinedumbbellcurls</item>
+        <item>R.drawable.hammercurls</item>
+        <item>R.drawable.cabelcurls</item>
+        <item>R.drawable.barbellcurls</item>
+        <item>R.drawable.concentrationcurls</item>
+        <item>R.drawable.palmsupwristcurls</item>
+        <item>R.drawable.palmsdownwristcurls</item>
+    </string-array>
+
+
+    <!--    Cardio-->
+    <!--    Muscle Array-->
+    <string-array name="cardio_muscle" translatable="false">
+        <item>Quadriceps, Hamstrings, The calves, The glutes</item>
+        <item>Glutes, Hamstrings, Quads, Chest, Back, Biceps, Triceps, Core</item>
+        <item>Glutes, Hamstrings, Quadriceps, Abs, Calves</item>
+        <item>Legs, Hips, Buttocks, Abdomen, Arms, Chest, Shoulders</item>
+        <item>Calves, Quadriceps, Shoulders</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="cardio_workout_name" translatable="false">
+        <item>Run on the treadmill</item>
+        <item>Pedal away on an elliptical</item>
+        <item>Climb steps on a stair machine</item>
+        <item>Burpee</item>
+        <item>Jumping Jacks</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="cardio_video" translatable="false">
+        <item>R.raw.treadmill</item>
+        <item>R.raw.elliptical</item>
+        <item>R.raw.stepper</item>
+        <item>R.raw.burpee_workout</item>
+        <item>R.raw.jumping_jack_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="cardio_thumbnail" translatable="false">
+        <item>R.drawable.runontreadmill</item>
+        <item>R.drawable.pedalawayonanelliptical</item>
+        <item>R.drawable.climbstepsonastairmachine</item>
+        <item>R.drawable.burpee</item>
+        <item>R.drawable.jumpingjacks</item>
+    </string-array>
+
+    <!--    Leg-->
+    <!--    Muscle Array-->
+    <string-array name="leg_muscle" translatable="false">
+        <item>Gluteus Maximus-Minimus-Medius (buttocks), Quadriceps (front of the thigh), Hamstrings (back of the thigh), Adductor (groin), Hip flexors, Calves</item>
+        <item>Quadriceps, Quads</item>
+        <item>Glutes, Hamstrings, Quads, Calves</item>
+        <item>The Quadriceps, The Rectus Femoris, The Vastus</item>
+        <item>Hamstrings, Gluteals</item>
+        <item>Gluteals, Quadriceps, Hamstrings</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="leg_workout_name" translatable="false">
+        <item>Squats</item>
+        <item>Leg Press</item>
+        <item>Hack Squats</item>
+        <item>Leg Extension</item>
+        <item>Leg Curl</item>
+        <item>Lunges</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="leg_video" translatable="false">
+        <item>R.raw.barbell_full_squat_workout</item>
+        <item>R.raw.leg_press_machine_workout</item>
+        <item>R.raw.squats</item>
+        <item>R.raw.lever_leg_extension</item>
+        <item>R.raw.lying_leg_curl_machine_workout</item>
+        <item>R.raw.alternate_front_lunges_dumbbell</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="leg_thumbnail" translatable="false">
+        <item>R.drawable.squats</item>
+        <item>R.drawable.legpress</item>
+        <item>R.drawable.hacksquat</item>
+        <item>R.drawable.legextension</item>
+        <item>R.drawable.legcurls</item>
+        <item>R.drawable.lunges</item>
+    </string-array>
+
+    <!--    Shoulder-->
+    <!--    Muscle Array-->
+    <string-array name="shoulder_muscle" translatable="false">
+        <item>Anterior Deltoid,</item>
+        <item>Trapezius, Lateral Deltoid, Front Deltoids</item>
+        <item>Deltoid, Triceps</item>
+        <item>Side Deltoid, Anterior Deltoid</item>
+        <item>Pectorals (chest), Deltoids (shoulders), Triceps (arms), Trapezius (upper back)</item>
+        <item>Rear Deltoids, Rhomboids, Middle Trapezius</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="shoulder_workout_name" translatable="false">
+        <item>Dumbell Front Raise</item>
+        <item>Dumbbell lateral Raise</item>
+        <item>Seated Military Press</item>
+        <item>Cabel Lateral raise</item>
+        <item>Overhead Press</item>
+        <item>Face Pull</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="shoulder_video" translatable="false">
+        <item>R.raw.standing_front_raise_dumbbell_workout</item>
+        <item>R.raw.lateral_raises_dumbbell_workout</item>
+        <item>R.raw.seated_dumbbell_shoulder_press_workout</item>
+        <item>R.raw.lateral_raises_on_cable_workout</item>
+        <item>R.raw.barbell_seated_overhead_press_workout</item>
+        <item>R.raw.resistance_band_face_pull_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="shoulder_thumbnail" translatable="false">
+        <item>R.drawable.dumbbellfrontraise</item>
+        <item>R.drawable.dumbbelllateralraise</item>
+        <item>R.drawable.seatedmilitaryPress</item>
+        <item>R.drawable.cabellateralraise</item>
+        <item>R.drawable.overheadpress</item>
+        <item>R.drawable.facepull</item>
+    </string-array>
+
+    <!--    Triceps-->
+    <!--    Muscle Array-->
+    <string-array name="triceps_muscle" translatable="false">
+        <item>Triceps,</item>
+        <item>Triceps, Chest, Shoulders</item>
+        <item>Core, Gluteals, Lower Back Muscles</item>
+        <item>Triceps,</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="triceps_workout_name" translatable="false">
+        <item>Skull Crusher</item>
+        <item>Dip</item>
+        <item>Standing Overhead Cabel Triceps Extension</item>
+        <item>Cabel Rope Tricep Pushdown</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="triceps_video" translatable="false">
+        <item>R.raw.dumbbell_incline_triceps_extension_workout</item>
+        <item>R.raw.bench_triceps_dip_straight_legs_workout</item>
+        <item>R.raw.cable_overhead_extension_rope_workout</item>
+        <item>R.raw.cable_reverse_grip_pushdown_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="triceps_thumbnail" translatable="false">
+        <item>R.drawable.skullcrusher</item>
+        <item>R.drawable.dip</item>
+        <item>R.drawable.standingoverheadcabeltricepsextension</item>
+        <item>R.drawable.cabelropetriceppushdown</item>
+    </string-array>
+
+    <!--    Back-->
+    <!--    Muscle Array-->
+    <string-array name="back_muscle" translatable="false">
+        <item>Trapezius, Deltoids, Rhomboids, Erectors, Latissimus Dorsi, Gluteals, Hamitems, Calves, Biceps, Core</item>
+        <item>Latissimus Dorsi, Biceps, Trapezius, Deltoids, Core</item>
+        <item>Latissimus Dorsi, Erectors, Serratus, Rhomboids</item>
+        <item>Latissimus Dorsi, Biceps, Rhomboids, Deltoids, Trapezius, Pectoralis Major, Serratus, Teres Major</item>
+        <item>Latissimus Dorsi, Rhomboids, Trapezius, Biceps</item>
+        <item>Latissimus Dorsi, Biceps, Rear Deltoids, Rhomboids, Trapezius</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="back_workout_name" translatable="false">
+        <item>Deadlift</item>
+        <item>Single-Arm Dumbbell Row</item>
+        <item>Incline Rows</item>
+        <item>Pull-ups</item>
+        <item>Seated Cabel Row</item>
+        <item>Lat Pull-Downs</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="back_video" translatable="false">
+        <item>R.raw.barbell_snatch_deadlift_close_grip_powerlifting__workout</item>
+        <item>R.raw.dumbbells_single_arm_workout</item>
+        <item>R.raw.dumbbell_hammer_grip_incline_bench_workout</item>
+        <item>R.raw.pull_up_normal_grip_workout</item>
+        <item>R.raw.seated_cable_row_v_bar_machine_workout</item>
+        <item>R.raw.lat_pull_down_close_grip_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="back_thumbnail" translatable="false">
+        <item>R.drawable.deadlift</item>
+        <item>R.drawable.singlearmdumbbellrow</item>
+        <item>R.drawable.inclinedmbbellrow</item>
+        <item>R.drawable.pullups</item>
+        <item>R.drawable.seatedcabelrow</item>
+        <item>R.drawable.latpulldown</item>
+    </string-array>
+
+    <!--    Chest-->
+    <!--    Muscle Array-->
+    <string-array name="chest_muscle" translatable="false">
+        <item>Pectorals, Triceps, Deltoids</item>
+        <item>Pectorals, Triceps, Deltoids</item>
+        <item>Pectorals, Triceps, Deltoids</item>
+        <item>Triceps, Pectoral Muscles, Shoulders</item>
+        <item>Chest, Shoulders, Triceps</item>
+        <item>Pectorals, Deltoids, Triceps, Biceps</item>
+        <item>Lower Chest, Upper Chest, Front Shoulder</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="chest_workout_name" translatable="false">
+        <item>Dumbbell Bench Press</item>
+        <item>Incline Bench Press</item>
+        <item>Machine Chest Press</item>
+        <item>Push-up</item>
+        <item>Dip</item>
+        <item>Chest Fly</item>
+        <item>Machine Fy</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="chest_video" translatable="false">
+        <item>R.raw.incline_dumbbell</item>
+        <item>R.raw.barbell_bench_press_incline_workout</item>
+        <item>R.raw.machine_chest_press_incline_workout</item>
+        <item>R.raw.side_to_side_push_up_workout</item>
+        <item>R.raw.chest_dip_weighted_workout</item>
+        <item>R.raw.dumbbell_fly_flat_bench_workout</item>
+        <item>R.raw.machine_fly_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="chest_thumbnail" translatable="false">
+        <item>R.drawable.dumbbellbenchpress</item>
+        <item>R.drawable.inclinebenchpress</item>
+        <item>R.drawable.machinechestpress</item>
+        <item>R.drawable.pushups</item>
+        <item>R.drawable.dip</item>
+        <item>R.drawable.chestfly</item>
+        <item>R.drawable.machinefly</item>
+    </string-array>
+
+    <!--    Muscle String End-->
+
+    <!--    Activity Array-->
+    <string-array name="activity_array" translatable="false">
+        <item>Abdomen</item>
+        <item>Back</item>
+        <item>Biceps and Forearm</item>
+        <item>Cardio</item>
+        <item>Chest</item>
+        <item>Leg</item>
+        <item>Shoulder</item>
+        <item>Triceps</item>
+    </string-array>
+
+    <!-- Main application strings   -->
+    <string name="app_name">Bodyworks</string>
+    <string name="workouts">Workouts</string>
+    <string name="fitness_hub">Fitness Hub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_timer">Set timer</string>
+    <string name="set">Set</string>
+    <string name="zero">0</string>
+    <string name="setBtn">Set</string>
+    <string name="startBtn">Start</string>
+    <string name="resetBtn">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="start">Start</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="your_current_bmi">Your Current BMI:</string>
+    <string name="_0">0</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="calculate">Calculate</string>
+    <string name="error">ERROR</string>
+    <string name="change_the_language_description">Change the Language</string>
+    <string name="choose_language_title">Choose Language</string>
+    <string name="weight">weight</string>
+    <string name="weight_tracker_chart">Weight Tracker Chart</string>
+
+    <string name="bmiInfo">
+        A BMI below 18.5 (blue) is considered underweight.\n\nA BMI of 18.5 to 24.9 (green) is considered healthy.\n\nA BMI of 25 to 29.9 (yellow) is considered overweight.\n\nA BMI of 30 to 39.9 (red) is considered obese.\n\nA BMI of 40 or higher (purple) is considered extreme obesity.
+    </string>
+    <!-- Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Greetings -->
+    <string name="morning_greeting">Good Morning!</string>
+    <string name="afternoon_greeting">Good Afternoon!</string>
+    <string name="evening_greeting">Good Evening!</string>
+    <string name="other_greeting">Hello, How are you today\?</string>
+
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="hindi">Hindi</string>
+    <string name="spanish">Spanish</string>
+
+
+    <!--  DailyWorkout Activity Strings  -->
+    <string name="daily_workout_planner">Daily Workout Planner</string>
+    <string name="daily_workout_planner_help">Floating Button To Get Help About How To Use Daily Workout Planner Feature of App</string>
+    <string name="workout_selected_tab_text">Workout Planned</string>
+    <string name="plan_workouts_tab_text">Plan Workouts</string>
+    <string name="today_s_exercise_label">Today\'s Exercise</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="image_of_exercise">Image Of Exercise</string>
+    <string name="feet_hint">Feet</string>
+    <string name="inch_hint">Inch</string>
+    <string name="ok">OK</string>
+    <string name="bmi">BMI</string>
+    <string name="weight_tracker">Weight Tracker</string>
+    <string name="save">SAVE</string>
+    <string name="date_hint">Date</string>
+
+
+    <!-- Water Reminder Activity -->
+    <string name="water_reminder">Water Reminder</string>
+    <string name="get_reminder_title">Select Your Time To Get Reminder</string>
+    <string name="start_time">Start Time:</string>
+    <string name="end_time">End Time:</string>
+    <string name="select_start_time">Select Start Time</string>
+    <string name="select_end_time">Select End Time</string>
+    <string name="start_reminder">Start Reminder</string>
+    <string name="enter_time_interval">Enter Time Interval In Minutes</string>
+    <string name="add_item">Add Item</string>
+    <string name="total_calories_0">Total Calories: 0</string>
+    <string name="calorie_tracker">Calorie Tracker</string>
+    <string name="water_drop_with_glass_image">Water Drop With Glass Image</string>
+    <string name="sleep_reminder_clock_with_sleep_image">Sleep Reminder Clock With Sleep Image</string>
+    <string name="select_your_sleep_time_to_get_reminder">Select Your Sleep Time To Get Reminder</string>
+    <string name="select_sleep_time">Select Sleep Time</string>
+    <string name="select_sleep_time_label">Select Sleep Time:</string>
+
+    <!--    Diet Meal Plans-->
+    <string name="diet_meal_plans">Diet Meal Plans</string>
+
+    <string name="gain_breakfast">Whole eggs or egg whites-Whole grain toast or oatmeal-Greek yogurt-Fruit (banana, berries, mango, avocado, pineapple, apples, grapes, kiwi, oranges, pears)-Handful of nuts (almonds, walnuts, cashews, pecans, brazil nuts, hazelnuts, pistachios, peanuts, macadamia nuts)-Cheese-Whole grain crackers
+    </string>
+    <string name="gain_lunch">Lean protein source (chicken breast, turkey, fish, lean beef, tofu, beans, legumes, seafood)-Brown rice or quinoa-Mixed vegetables (potatoes, corn, peas, broccoli, cauliflower, spinach, carrots, onions, bell peppers)-Healthy fats (olive oil, avocado, coconut oil, nut butter, chia seeds, flaxseeds)
+    </string>
+    <string name="gain_snacks">Protein smoothie with whey protein, milk, banana and peanut butter-Whole grain crackers with cheese or hummus
+    </string>
+    <string name="gain_dinner">Lean protein source (beef, poultry, fish, tofu)-Sweet potatoes or brown rice-Mixed vegetables-Olive oil or avocado for healthy fats
+    </string>
+    <string name="gain_pre_workout">Chicken and Rice Bowl-Peanut Butter Banana Toast-Turkey and Avocado Wrap-Oatmeal with Protein Powder
+    </string>
+    <string name="gain_post_workout">Salmon and Quinoa Salad-Beef Stir Fry with Brown Rice-Chicken and Sweet Potato Mash-Protein Packed Burrito Bowl-Whole Grain Wrap with Turkey and Hummus
+    </string>
+
+    <string name="loose_breakfast">Scrambled eggs or egg whites-Whole grain toast or oatmeal-Fresh fruit (berries, apple, grapefruit, pears, oranges, watermelon, peaches, plums, kiwi, cherries, cantaloupe, papaya)-Greek yogurt with a handful of nuts or seeds
+    </string>
+    <string name="loose_lunch">Grilled chicken or tofu-Quinoa or brown rice-Steamed or roasted vegetables (spinach, broccoli, cauliflower, carrots, bell peppers, zucchini, cucumbers, tomatoes, cabbage, green beans, eggplant)-Olive oil or vinaigrette for dressing
+    </string>
+    <string name="loose_snacks">Hummus with vegetable sticks (carrots, cucumber, bell peppers)-Handful of cherry tomatoes or a small piece of cheese
+    </string>
+    <string name="loose_dinner">Baked or grilled fish (salmon, tilapia, or cod)-Sweet potatoes or cauliflower rice-Mixed green salad with a light dressing
+    </string>
+    <string name="loose_pre_workout">Whole Grain Toast with Nut Butter-Greek Yogurt with Fruit-Oatmeal with Protein-Banana with Almond Butter-Chicken or Turkey Wrap
+    </string>
+    <string name="loose_post_workout">Protein Packed Salad-Whole Grain Wrap with Turkey and Veggies-Vegetarian Stir Fry with Tofu-Sweet Potato and Black Bean Bowl-Chicken or Salmon with Quinoa
+    </string>
+
+    <string name="muscle_breakfast">4 to 6 whole eggs (scrambled or boiled)-Whole grain toast or oatmeal with a tablespoon of almond butter-Greek yogurt with berries-Protein smoothie with whey protein, milk, banana, and a tablespoon of peanut butter-Handful of almonds or walnuts
+    </string>
+    <string name="muscle_lunch">Grilled chicken or tofu-Quinoa or brown rice-Steamed or roasted vegetables (broccoli, spinach, carrots, bell peppers, sweet potatoes, brussels sprouts, cauliflower, tomatoes, cabbage, zucchini, onions, eggplant, garlic)-Olive oil or avocado for healthy fats
+    </string>
+    <string name="muscle_snacks">Cottage cheese or Greek yogurt-Whole grain crackers or rice cakes-Sliced cucumber and cherry tomatoes
+    </string>
+    <string name="muscle_dinner">Baked or grilled salmon or lean beef-Quinoa or sweet potatoes-Mixed green salad with olive oil based dressing-Casein protein shake (slow digesting protein) with water or milk-A small serving of low fat cottage cheese or a handful of nuts
+    </string>
+    <string name="muscle_pre_workout">Chicken and Sweet Potato-Whole Grain Toast with Nut Butter-Greek Yogurt-Turkey and Avocado Wrap-Oatmeal with Protein Powder
+    </string>
+    <string name="muscle_post_workout">Salmon and Quinoa Salad-Chicken and Brown Rice-Vegetarian Stir Fry with Tofu-Protein Packed Burrito Bowl-Whole Grain Wrap with Turkey and Hummus
+    </string>
+    <string name="diet_plan_warning">*These diet plans are indicative only. For optimal effect, please consult your dietitian.</string>
+    <string name="select_diet_plans">Select Diet Plans</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="snack">Snack</string>
+    <string name="dinner">Dinner</string>
+    <string name="pre_workout">Pre-Workout</string>
+    <string name="post_workout">Post-Workout</string>
+    <string name="workout_image">Workout Image</string>
+    <string name="select_workout_time_reminder">Select workout time reminder</string>
+    <string name="select_workout_time">Select Workout Time</string>
+    <string name="select_workout_time_label">Select Workout Time</string>
+    <string name="workout_time_selected">Workout Time Selected:</string>
+
+    <string-array name="diet_plans_name">
+        <item>Weight Loss Plan</item>
+        <item>Weight Gain Plan</item>
+        <item>Muscle Gain Plan</item>
+    </string-array>
+
+
+    <!-- Settings -->
+    <!--    Unit-->
+    <string name="settings">Settings</string>
+    <string name="currently_using_metric">Currently Using: Metric</string>
+    <string name="current_using_imperial">Current Using: Imperial</string>
+    <string name="measurement_unit">Measurement Unit</string>
+    <string name="sleep_time_selected">Sleep Time Selected:</string>
+    <string name="sleep_reminder_btn">Sleep Reminder</string>
+    <string name="workout_reminder_btn">Workout Reminder</string>
+    <string name="lbs">Lbs</string>
+
+    <!--    ThemeSelection-->
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="brown">Brown</string>
+
+
+    <string-array name="color_labels">
+        <item>@string/red</item>
+        <item>@string/orange</item>
+        <item>@string/brown</item>
+    </string-array>
+
+    <string-array name="color_values">
+        <item>@string/red</item>
+        <item>@string/orange</item>
+        <item>@string/brown</item>
+    </string-array>
+
+    <string name="text_light_mode">Current Mode: Light Mode</string>
+    <string name="text_dark_mode">Current Mode: Dark Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <!-- Timer Tone Selection-->
+    <string name="countdown">Countdown</string>
+    <string name="countdown_timer_digital">Countdown Timer Digital</string>
+    <string name="stopwatch_ticking_mechanical">Stopwatch Ticking Mechanical</string>
+    <string name="tick_tock_clock_timer">Tick Tok Clock Timer</string>
+    <string name="nutritional_values_txt">Nutritional Values</string>
+    <string name="select_food_category">Select Food Category</string>
+    <string name="nutritional_value_warning">* Values are per 100 grams. Keep in mind that these values can very based on different factors like cooking method.</string>
+
+    <string-array name="tone_labels">
+        <item>@string/countdown</item>
+        <item>@string/countdown_timer_digital</item>
+        <item>@string/stopwatch_ticking_mechanical</item>
+        <item>@string/tick_tock_clock_timer</item>
+    </string-array>
+
+    <string-array name="tone_values">
+        <item>@string/countdown</item>
+        <item>@string/countdown_timer_digital</item>
+        <item>@string/stopwatch_ticking_mechanical</item>
+        <item>@string/tick_tock_clock_timer</item>
+    </string-array>
+
+    <string-array name="food_categories">
+        <item>Fruits</item>
+        <item>Protein Foods</item>
+        <item>Grains</item>
+        <item>Vegetables</item>
+        <item>Dairy</item>
+        <item>Nuts and Seeds</item>
+    </string-array>
+
+    <!-- Fruit  -->
+    <string name="apple_name">Apple</string>
+    <string name="banana_name">Banana</string>
+    <string name="orange_name">Orange</string>
+    <string name="strawberries_name">Strawberries</string>
+    <string name="pineapple_name">Pineapple</string>
+    <string name="grapes_name">Grapes</string>
+    <string name="mango_name">Mango</string>
+    <string name="watermelon_name">Watermelon</string>
+    <string name="peach_name">Peach</string>
+    <string name="kiwi_name">Kiwi</string>
+    <string name="apple_description">• Calories: 52 kcal\n• Carbohydrates: 14 g\n• Fiber: 2.4 g\n• Sugars: 10 g\n• Protein: 0.3 g</string>
+    <string name="banana_description">• Calories: 89 kcal\n• Carbohydrates: 23 g\n• Fiber: 2.6 g\n• Sugars: 12 g\n• Protein: 1.1 g</string>
+    <string name="orange_description">• Calories: 43 kcal\n• Carbohydrates: 9 g\n• Fiber: 2.3 g\n• Sugars: 8.2 g\n• Protein: 1.0 g</string>
+    <string name="strawberries_description">• Calories: 32 kcal\n• Carbohydrates: 7.7 g\n• Fiber: 2.0 g\n• Sugars: 4.9 g\n• Protein: 0.7 g</string>
+    <string name="pineapple_description">• Calories: 50 kcal\n• Carbohydrates: 13 g\n• Fiber: 1.4 g\n• Sugars: 9.9 g\n• Protein: 0.5 g</string>
+    <string name="grapes_description">• Calories: 69 kcal\n• Carbohydrates: 18 g\n• Fiber: 0.9 g\n• Sugars: 15 g\n• Protein: 0.6 g</string>
+    <string name="mango_description">• Calories: 60 kcal\n• Carbohydrates: 15 g\n• Fiber: 1.6 g\n• Sugars: 14 g\n• Protein: 0.8 g</string>
+    <string name="watermelon_description">• Calories: 30 kcal\n• Carbohydrates: 8 g\n• Fiber: 0.4 g\n• Sugars: 6 g\n• Protein: 0.6 g</string>
+    <string name="peach_description">• Calories: 39 kcal\n• Carbohydrates: 10 g\n• Fiber: 1.5 g\n• Sugars: 8.4 g\n• Protein: 0.9 g</string>
+    <string name="kiwi_description">• Calories: 61 kcal\n• Carbohydrates: 15 g\n• Fiber: 3 g\n• Sugars: 9 g\n• Protein: 1.1 g</string>
+
+    <!-- Protein Food   -->
+    <string name="chicken_breast_name">Chicken Breast</string>
+    <string name="salmon_name">Salmon</string>
+    <string name="egg_name">Egg</string>
+    <string name="tofu_name">Tofu</string>
+    <string name="turkey_name">Turkey</string>
+    <string name="beef_name">Beef</string>
+    <string name="pork_name">Pork</string>
+    <string name="lentils_name">Lentils</string>
+    <string name="chickpeas_name">Chickpeas</string>
+    <string name="quinoa_name">Quinoa</string>
+    <string name="chicken_breast_description">• Calories: 165 kcal\n• Protein: 31 g\n• Total Fat: 3.6 g\n• Saturated Fat: 1.0 g\n• Cholesterol: 85 mg</string>
+    <string name="salmon_description">• Calories: 206 kcal\n• Protein: 22 g\n• Total Fat: 13 g\n• Saturated Fat: 2.0 g\n• Omega-3 Fatty Acids: 2.3 g</string>
+    <string name="egg_description">• Calories: 68 kcal\n• Protein: 5.5 g\n• Total Fat: 4.8 g\n• Saturated Fat: 1.6 g\n• Cholesterol: 186 mg</string>
+    <string name="tofu_description">• Calories: 144 kcal\n• Protein: 15 g\n• Total Fat: 8.0 g\n• Saturated Fat: 1.1 g\n• Cholesterol: 0 mg</string>
+    <string name="turkey_description">• Calories: 135 kcal\n• Protein: 29 g\n• Total Fat: 1.7 g\n• Saturated Fat: 0.5 g\n• Cholesterol: 70 mg</string>
+    <string name="beef_description">• Calories: 250 kcal\n• Protein: 26 g\n• Total Fat: 17 g\n• Saturated Fat: 6.8 g\n• Cholesterol: 94 mg</string>
+    <string name="pork_description">• Calories: 143 kcal\n• Protein: 25 g\n• Total Fat: 4.4 g\n• Saturated Fat: 1.5 g\n• Cholesterol: 71 mg</string>
+    <string name="lentils_description">• Calories: 116 kcal\n• Protein: 9.0 g\n• Total Fat: 0.4 g\n• Saturated Fat: 0.1 g\n• Cholesterol: 0 mg</string>
+    <string name="chickpeas_description">• Calories: 164 kcal\n• Protein: 8.9 g\n• Total Fat: 2.6 g\n• Saturated Fat: 0.3 g\n• Cholesterol: 0 mg</string>
+    <string name="quinoa_description">• Calories: 120 kcal\n• Protein: 4.1 g\n• Total Fat: 1.9 g\n• Saturated Fat: 0.2 g\n• Cholesterol: 0 mg</string>
+
+    <!-- Grains   -->
+    <string name="brown_rice_name">Brown Rice</string>
+    <string name="barley_name">Barley</string>``
+    <string name="oats_name">Oats</string>
+    <string name="whole_wheat_bread_name">Whole Wheat Bread</string>
+    <string name="couscous_name">Couscous</string>
+    <string name="bulgur_name">Bulgur</string>
+    <string name="farro_name">Farro</string>
+    <string name="millet_name">Millet</string>
+    <string name="buckwheat_name">Buckwheat</string>
+    <string name="brown_rice_description">• Calories: 111 kcal\n• Carbohydrates: 23 g\n• Fiber: 1.8 g\n• Protein: 2.6 g</string>
+    <string name="quinoa_description_v2">• Calories: 120 kcal\n• Carbohydrates: 21 g\n• Fiber: 2.8 g\n• Protein: 4.1 g</string>
+    <string name="barley_description">• Calories: 123 kcal\n• Carbohydrates: 28 g\n• Fiber: 4.0 g\n• Protein: 3.6 g</string>
+    <string name="oats_description">• Calories: 68 kcal\n• Carbohydrates: 12 g\n• Fiber: 2.4 g\n• Protein: 2.4 g</string>
+    <string name="whole_wheat_bread_description">• Calories: 247 kcal\n• Carbohydrates: 49 g\n• Fiber: 7.6 g\n• Protein: 12 g</string>
+    <string name="couscous_description">• Calories: 176 kcal\n• Carbohydrates: 36 g\n• Fiber: 2.2 g\n• Protein: 6 g</string>
+    <string name="bulgur_description">• Calories: 83 kcal\n• Carbohydrates: 18 g\n• Fiber: 5.6 g\n• Protein: 3 g</string>
+    <string name="farro_description">• Calories: 170 kcal\n• Carbohydrates: 34 g\n• Fiber: 5.4 g\n• Protein: 7 g</string>
+    <string name="millet_description">• Calories: 119 kcal\n• Carbohydrates: 23 g\n• Fiber: 1.7 g\n• Protein: 3.5 g</string>
+    <string name="buckwheat_description">• Calories: 343 kcal\n• Carbohydrates: 71 g\n• Fiber: 10 g\n• Protein: 13 g</string>
+
+    <!--  Vegetables  -->
+    <string name="broccoli_name">Broccoli</string>
+    <string name="spinach_name">Spinach</string>
+    <string name="carrots_name">Carrots</string>
+    <string name="bell_peppers_name">Bell Peppers</string>
+    <string name="cauliflower_name">Cauliflower</string>
+    <string name="zucchini_name">Zucchini</string>
+    <string name="sweet_potato_name">Sweet Potato</string>
+    <string name="kale_name">Kale</string>
+    <string name="asparagus_name">Asparagus</string>
+    <string name="tomato_name">Tomato</string>
+    <string name="broccoli_description">• Calories: 55 kcal\n• Carbohydrates: 11 g\n• Fiber: 3.7 g\n• Protein: 3.7 g</string>
+    <string name="spinach_description">• Calories: 23 kcal\n• Carbohydrates: 3.6 g\n• Fiber: 2.2 g\n• Protein: 2.9 g</string>
+    <string name="carrots_description">• Calories: 41 kcal\n• Carbohydrates: 10 g\n• Fiber: 2.8 g\n• Protein: 1 g</string>
+    <string name="bell_peppers_description">• Calories: 31 kcal\n• Carbohydrates: 7.6 g\n• Fiber: 2.8 g\n• Protein: 1.2 g</string>
+    <string name="cauliflower_description">• Calories: 25 kcal\n• Carbohydrates: 5.3 g\n• Fiber: 2.5 g\n• Protein: 2 g</string>
+    <string name="zucchini_description">• Calories: 17 kcal\n• Carbohydrates: 3.1 g\n• Fiber: 1 g\n• Protein: 1.2 g</string>
+    <string name="sweet_potato_description">• Calories: 86 kcal\n• Carbohydrates: 20 g\n• Fiber: 3 g\n• Protein: 2 g</string>
+    <string name="kale_description">• Calories: 50 kcal\n• Carbohydrates: 11 g\n• Fiber: 2.6 g\n• Protein: 3.3 g</string>
+    <string name="asparagus_description">• Calories: 20 kcal\n• Carbohydrates: 3.7 g\n• Fiber: 2 g\n• Protein: 2.2 g</string>
+    <string name="tomato_description">• Calories: 18 kcal\n• Carbohydrates: 4 g\n• Fiber: 1.5 g\n• Protein: 1 g</string>
+
+    <!-- Dairy  -->
+    <string name="greek_yogurt_name">Greek Yogurt</string>
+    <string name="milk_name">Milk</string>
+    <string name="cheese_name">Cheese</string>
+    <string name="cottage_cheese_name">Cottage Cheese</string>
+    <string name="butter_name">Butter</string>
+    <string name="yogurt_name">Yogurt</string>
+    <string name="soy_milk_name">Soy Milk</string>
+    <string name="almond_milk_name">Almond Milk</string>
+    <string name="goat_cheese_name">Goat Cheese</string>
+    <string name="cream_name">Cream</string>
+    <string name="greek_yogurt_description">• Calories: 59 kcal\n• Protein: 10 g\n• Carbohydrates: 3.6 g\n• Sugars: 3.6 g</string>
+    <string name="milk_description">• Calories: 61 kcal\n• Protein: 3.2 g\n• Carbohydrates: 4.8 g\n• Sugars: 4.8 g</string>
+    <string name="cheese_description">• Calories: 402 kcal\n• Protein: 25 g\n• Total Fat: 33 g\n• Saturated Fat: 21 g\n• Cholesterol: 100 mg</string>
+    <string name="cottage_cheese_description">• Calories: 98 kcal\n• Protein: 11 g\n• Carbohydrates: 3.4 g\n• Sugars: 2.3 g</string>
+    <string name="butter_description">• Calories: 717 kcal\n• Total Fat: 81 g\n• Saturated Fat: 51 g\n• Cholesterol: 215 mg</string>
+    <string name="yogurt_description">• Calories: 59 kcal\n• Protein: 10 g\n• Carbohydrates: 3.6 g\n• Sugars: 3.6 g</string>
+    <string name="soy_milk_description">• Calories: 33 kcal\n• Protein: 3.3 g\n• Carbohydrates: 1.7 g\n• Sugars: 1 g</string>
+    <string name="almond_milk_description">• Calories: 13 kcal\n• Protein: 0.5 g\n• Carbohydrates: 0.6 g\n• Sugars: 0.1 g</string>
+    <string name="goat_cheese_description">• Calories: 364 kcal\n• Protein: 22 g\n• Total Fat: 30 g\n• Saturated Fat: 20 g\n• Cholesterol: 59 mg</string>
+    <string name="cream_description">• Calories: 340 kcal\n• Protein: 2 g\n• Total Fat: 36 g\n• Saturated Fat: 22 g\n• Cholesterol: 110 mg</string>
+
+    <!--  Nuts and Seeds  -->
+    <string name="almonds_name">Almonds</string>
+    <string name="chia_seeds_name">Chia Seeds</string>
+    <string name="walnuts_name">Walnuts</string>
+    <string name="flaxseeds_name">Flaxseeds</string>
+    <string name="sunflower_seeds_name">Sunflower Seeds</string>
+    <string name="pumpkin_seeds_name">Pumpkin Seeds</string>
+    <string name="cashews_name">Cashews</string>
+    <string name="peanuts_name">Peanuts</string>
+    <string name="hazelnuts_name">Hazelnuts</string>
+    <string name="pistachios_name">Pistachios</string>
+    <string name="almonds_description">• Calories: 576 kcal\n• Protein: 21 g\n• Total Fat: 49 g\n• Saturated Fat: 3.7 g\n• Fiber: 12 g</string>
+    <string name="chia_seeds_description">• Calories: 486 kcal\n• Protein: 16.5 g\n• Total Fat: 30.7 g\n• Saturated Fat: 3.3 g\n• Fiber: 34.4 g</string>
+    <string name="walnuts_description">• Calories: 654 kcal\n• Protein: 15 g\n• Total Fat: 65 g\n• Saturated Fat: 6.1 g\n• Fiber: 7 g</string>
+    <string name="flaxseeds_description">• Calories: 534 kcal\n• Protein: 18 g\n• Total Fat: 42 g\n• Saturated Fat: 4 g\n• Fiber: 27 g</string>
+    <string name="sunflower_seeds_description">• Calories: 584 kcal\n• Protein: 21 g\n• Total Fat: 51 g\n• Saturated Fat: 4.5 g\n• Fiber: 8.6 g</string>
+    <string name="pumpkin_seeds_description">• Calories: 574 kcal\n• Protein: 30 g\n• Total Fat: 49 g\n• Saturated Fat: 8.7 g\n• Fiber: 5.2 g</string>
+    <string name="cashews_description">• Calories: 553 kcal\n• Protein: 18 g\n• Total Fat: 44 g\n• Saturated Fat: 8.5 g\n• Fiber: 3.3 g</string>
+    <string name="peanuts_description">• Calories: 567 kcal\n• Protein: 25 g\n• Total Fat: 49 g\n• Saturated Fat: 6.9 g\n• Fiber: 8.5 g</string>
+    <string name="hazelnuts_description">• Calories: 628 kcal\n• Protein: 15 g\n• Total Fat: 61 g\n• Saturated Fat: 4.5 g\n• Fiber: 9.7 g</string>
+    <string name="pistachios_description">• Calories: 562 kcal\n• Protein: 21 g\n• Total Fat: 45 g\n• Saturated Fat: 5.4 g\n• Fiber: 10 g</string>
+</resources>

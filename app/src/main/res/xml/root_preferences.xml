@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="Unit">
+
+        <SwitchPreferenceCompat
+            app:key="isMetric"
+            app:summaryOff="@string/currently_using_metric"
+            app:summaryOn="@string/current_using_imperial"
+            app:title="@string/measurement_unit" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Theme">
+
+        <ListPreference
+            app:defaultValue="@string/red"
+            app:entries="@array/color_labels"
+            app:entryValues="@array/color_values"
+            app:key="Current Theme"
+            app:title="Change Theme"
+            app:summary="Current Selected Theme: ">
+
+        </ListPreference>
+
+        <SwitchPreferenceCompat
+            app:key="darkMode"
+            app:summaryOff="@string/text_light_mode"
+            app:summaryOn="@string/text_dark_mode"
+            app:title="@string/dark_mode" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Timer Tone">
+
+        <ListPreference
+            app:defaultValue="@string/countdown"
+            app:entries="@array/tone_labels"
+            app:entryValues="@array/tone_values"
+            app:key="Current Timer Tone"
+            app:title="Change Timer Tone"
+            app:summary="Current Selected Theme: ">
+
+        </ListPreference>
+
+    </PreferenceCategory>
+</PreferenceScreen>

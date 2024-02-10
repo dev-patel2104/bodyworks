@@ -1,0 +1,651 @@
+<resources>
+    <!--    Abdomen-->
+
+    <!--    Muscle Array-->
+
+    <string-array name="abdomen_Muscle" translatable="false">
+        <item>Transversus Abdominis, Rectus Abdominis, Internal Oblique, External Oblique Muscles</item>
+        <item>Rectus Abdominis, The Internal and External Oblique Muscles</item>
+        <item>Rectus Abdominis (your six-pack), External Obliques (your sides), The Hips</item>
+        <item>Shoulders, Hamstrings, Core, Triceps, Quads</item>
+        <item>Obliques, Rectus Abdominis, Transverse Abdominis, Hip Flexors, Erector Spinae, Scapular Muscles, Latissimus Dorsi</item>
+        <item>rectus abdominus,</item>
+        <item>Iliopsoas, Rectus Abdominis, Obliques</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+
+    <string-array name="abdomen_workout_name" translatable="false">
+        <item>Plank</item>
+        <item>Leg Raise</item>
+        <item>Bicycle Crunch</item>
+        <item>Mountain Climber</item>
+        <item>Russian Twists</item>
+        <item>Crunches</item>
+        <item>Hanging Leg Raise</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="abdomen_video" translatable="false">
+        <item>R.raw.plank</item>
+        <item>R.raw.lying_leg_raise_workout</item>
+        <item>R.raw.bicycle_twisting_workout</item>
+        <item>R.raw.mountain_climbers_workout</item>
+        <item>R.raw.dumbbell_russian_twist_workout</item>
+        <item>R.raw.crunches</item>
+        <item>R.raw.hanging_leg_raise</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="abdomen_thumbnail" translatable="false">
+        <item>R.drawable.plank</item>
+        <item>R.drawable.legraise</item>
+        <item>R.drawable.bicyclecrunch</item>
+        <item>R.drawable.mountainclimber</item>
+        <item>R.drawable.russiantwist</item>
+        <item>R.drawable.crunches</item>
+        <item>R.drawable.hanginglegraise</item>
+    </string-array>
+
+    <!--    Biceps & Forearm-->
+
+    <!--    Muscle Array-->
+    <string-array name="bicep_muscle" translatable="false">
+        <item>Biceps, The Brachialis, Brachioradialis</item>
+        <item>Biceps, The Brachialis, Brachioradialis</item>
+        <item>Biceps, The Brachialis, Brachioradialis</item>
+        <item>Biceps, Brachii</item>
+        <item>Biceps, Brachii, Brachialis</item>
+        <item>Triceps, Brachialis, Brachioradialis</item>
+        <item>The Forearms,</item>
+        <item>The Forearms,</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="bicep_workout_name" translatable="false">
+        <item>Dumbbell Curl</item>
+        <item>Incline Dumbbell Curl</item>
+        <item>Hammer Curl</item>
+        <item>Cabel Curl</item>
+        <item>Barbell Curl</item>
+        <item>Concentration Curl</item>
+        <item>Palms-up Wrist Curl</item>
+        <item>Palms-down Wrist Curl</item>
+    </string-array>
+
+    <!--    Video String Array    -->
+    <string-array name="bicep_video" translatable="false">
+        <item>R.raw.biceps_curls_with_dumbbells</item>
+        <item>R.raw.alternate_incline_dumbbell_curl_workout</item>
+        <item>R.raw.dumbbell_crossbody_hammer_curl_workout</item>
+        <item>R.raw.cable_biceps_curl_workout</item>
+        <item>R.raw.standing_barbell_curl_workout</item>
+        <item>R.raw.dumbbell_concentration_curl_workout</item>
+        <item>R.raw.dumbbell_reverse_wrist_curl_workout</item>
+        <item>R.raw.dumbbell_overbench_wrist_curl_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="bicep_thumbnail" translatable="false">
+        <item>R.drawable.dumbellcurls</item>
+        <item>R.drawable.inclinedumbbellcurls</item>
+        <item>R.drawable.hammercurls</item>
+        <item>R.drawable.cabelcurls</item>
+        <item>R.drawable.barbellcurls</item>
+        <item>R.drawable.concentrationcurls</item>
+        <item>R.drawable.palmsupwristcurls</item>
+        <item>R.drawable.palmsdownwristcurls</item>
+    </string-array>
+
+
+    <!--    Cardio-->
+    <!--    Muscle Array-->
+    <string-array name="cardio_muscle" translatable="false">
+        <item>Quadriceps, Hamstrings, The calves, The glutes</item>
+        <item>Glutes, Hamstrings, Quads, Chest, Back, Biceps, Triceps, Core</item>
+        <item>Glutes, Hamstrings, Quadriceps, Abs, Calves</item>
+        <item>Legs, Hips, Buttocks, Abdomen, Arms, Chest, Shoulders</item>
+        <item>Calves, Quadriceps, Shoulders</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="cardio_workout_name" translatable="false">
+        <item>Run on the treadmill</item>
+        <item>Pedal away on an elliptical</item>
+        <item>Climb steps on a stair machine</item>
+        <item>Burpee</item>
+        <item>Jumping Jacks</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="cardio_video" translatable="false">
+        <item>R.raw.treadmill</item>
+        <item>R.raw.elliptical</item>
+        <item>R.raw.stepper</item>
+        <item>R.raw.burpee_workout</item>
+        <item>R.raw.jumping_jack_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="cardio_thumbnail" translatable="false">
+        <item>R.drawable.runontreadmill</item>
+        <item>R.drawable.pedalawayonanelliptical</item>
+        <item>R.drawable.climbstepsonastairmachine</item>
+        <item>R.drawable.burpee</item>
+        <item>R.drawable.jumpingjacks</item>
+    </string-array>
+
+    <!--    Leg-->
+    <!--    Muscle Array-->
+    <string-array name="leg_muscle" translatable="false">
+        <item>Gluteus Maximus-Minimus-Medius (buttocks), Quadriceps (front of the thigh), Hamstrings (back of the thigh), Adductor (groin), Hip flexors, Calves</item>
+        <item>Quadriceps, Quads</item>
+        <item>Glutes, Hamstrings, Quads, Calves</item>
+        <item>The Quadriceps, The Rectus Femoris, The Vastus</item>
+        <item>Hamstrings, Gluteals</item>
+        <item>Gluteals, Quadriceps, Hamstrings</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="leg_workout_name" translatable="false">
+        <item>Squats</item>
+        <item>Leg Press</item>
+        <item>Hack Squats</item>
+        <item>Leg Extension</item>
+        <item>Leg Curl</item>
+        <item>Lunges</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="leg_video" translatable="false">
+        <item>R.raw.barbell_full_squat_workout</item>
+        <item>R.raw.leg_press_machine_workout</item>
+        <item>R.raw.squats</item>
+        <item>R.raw.lever_leg_extension</item>
+        <item>R.raw.lying_leg_curl_machine_workout</item>
+        <item>R.raw.alternate_front_lunges_dumbbell</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="leg_thumbnail" translatable="false">
+        <item>R.drawable.squats</item>
+        <item>R.drawable.legpress</item>
+        <item>R.drawable.hacksquat</item>
+        <item>R.drawable.legextension</item>
+        <item>R.drawable.legcurls</item>
+        <item>R.drawable.lunges</item>
+    </string-array>
+
+    <!--    Shoulder-->
+    <!--    Muscle Array-->
+    <string-array name="shoulder_muscle" translatable="false">
+        <item>Anterior Deltoid,</item>
+        <item>Trapezius, Lateral Deltoid, Front Deltoids</item>
+        <item>Deltoid, Triceps</item>
+        <item>Side Deltoid, Anterior Deltoid</item>
+        <item>Pectorals (chest), Deltoids (shoulders), Triceps (arms), Trapezius (upper back)</item>
+        <item>Rear Deltoids, Rhomboids, Middle Trapezius</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="shoulder_workout_name" translatable="false">
+        <item>Dumbell Front Raise</item>
+        <item>Dumbbell lateral Raise</item>
+        <item>Seated Military Press</item>
+        <item>Cabel Lateral raise</item>
+        <item>Overhead Press</item>
+        <item>Face Pull</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="shoulder_video" translatable="false">
+        <item>R.raw.standing_front_raise_dumbbell_workout</item>
+        <item>R.raw.lateral_raises_dumbbell_workout</item>
+        <item>R.raw.seated_dumbbell_shoulder_press_workout</item>
+        <item>R.raw.lateral_raises_on_cable_workout</item>
+        <item>R.raw.barbell_seated_overhead_press_workout</item>
+        <item>R.raw.resistance_band_face_pull_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="shoulder_thumbnail" translatable="false">
+        <item>R.drawable.dumbbellfrontraise</item>
+        <item>R.drawable.dumbbelllateralraise</item>
+        <item>R.drawable.seatedmilitaryPress</item>
+        <item>R.drawable.cabellateralraise</item>
+        <item>R.drawable.overheadpress</item>
+        <item>R.drawable.facepull</item>
+    </string-array>
+
+    <!--    Triceps-->
+    <!--    Muscle Array-->
+    <string-array name="triceps_muscle" translatable="false">
+        <item>Triceps,</item>
+        <item>Triceps, Chest, Shoulders</item>
+        <item>Core, Gluteals, Lower Back Muscles</item>
+        <item>Triceps,</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="triceps_workout_name" translatable="false">
+        <item>Skull Crusher</item>
+        <item>Dip</item>
+        <item>Standing Overhead Cabel Triceps Extension</item>
+        <item>Cabel Rope Tricep Pushdown</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="triceps_video" translatable="false">
+        <item>R.raw.dumbbell_incline_triceps_extension_workout</item>
+        <item>R.raw.bench_triceps_dip_straight_legs_workout</item>
+        <item>R.raw.cable_overhead_extension_rope_workout</item>
+        <item>R.raw.cable_reverse_grip_pushdown_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="triceps_thumbnail" translatable="false">
+        <item>R.drawable.skullcrusher</item>
+        <item>R.drawable.dip</item>
+        <item>R.drawable.standingoverheadcabeltricepsextension</item>
+        <item>R.drawable.cabelropetriceppushdown</item>
+    </string-array>
+
+    <!--    Back-->
+    <!--    Muscle Array-->
+    <string-array name="back_muscle" translatable="false">
+        <item>Trapezius, Deltoids, Rhomboids, Erectors, Latissimus Dorsi, Gluteals, Hamitems, Calves, Biceps, Core</item>
+        <item>Latissimus Dorsi, Biceps, Trapezius, Deltoids, Core</item>
+        <item>Latissimus Dorsi, Erectors, Serratus, Rhomboids</item>
+        <item>Latissimus Dorsi, Biceps, Rhomboids, Deltoids, Trapezius, Pectoralis Major, Serratus, Teres Major</item>
+        <item>Latissimus Dorsi, Rhomboids, Trapezius, Biceps</item>
+        <item>Latissimus Dorsi, Biceps, Rear Deltoids, Rhomboids, Trapezius</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="back_workout_name" translatable="false">
+        <item>Deadlift</item>
+        <item>Single-Arm Dumbbell Row</item>
+        <item>Incline Rows</item>
+        <item>Pull-ups</item>
+        <item>Seated Cabel Row</item>
+        <item>Lat Pull-Downs</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="back_video" translatable="false">
+        <item>R.raw.barbell_snatch_deadlift_close_grip_powerlifting__workout</item>
+        <item>R.raw.dumbbells_single_arm_workout</item>
+        <item>R.raw.dumbbell_hammer_grip_incline_bench_workout</item>
+        <item>R.raw.pull_up_normal_grip_workout</item>
+        <item>R.raw.seated_cable_row_v_bar_machine_workout</item>
+        <item>R.raw.lat_pull_down_close_grip_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="back_thumbnail" translatable="false">
+        <item>R.drawable.deadlift</item>
+        <item>R.drawable.singlearmdumbbellrow</item>
+        <item>R.drawable.inclinedmbbellrow</item>
+        <item>R.drawable.pullups</item>
+        <item>R.drawable.seatedcabelrow</item>
+        <item>R.drawable.latpulldown</item>
+    </string-array>
+
+    <!--    Chest-->
+    <!--    Muscle Array-->
+    <string-array name="chest_muscle" translatable="false">
+        <item>Pectorals, Triceps, Deltoids</item>
+        <item>Pectorals, Triceps, Deltoids</item>
+        <item>Pectorals, Triceps, Deltoids</item>
+        <item>Triceps, Pectoral Muscles, Shoulders</item>
+        <item>Chest, Shoulders, Triceps</item>
+        <item>Pectorals, Deltoids, Triceps, Biceps</item>
+        <item>Lower Chest, Upper Chest, Front Shoulder</item>
+    </string-array>
+
+    <!--    Workout Name Array-->
+    <string-array name="chest_workout_name" translatable="false">
+        <item>Dumbbell Bench Press</item>
+        <item>Incline Bench Press</item>
+        <item>Machine Chest Press</item>
+        <item>Push-up</item>
+        <item>Dip</item>
+        <item>Chest Fly</item>
+        <item>Machine Fy</item>
+    </string-array>
+
+    <!--    Video String Array-->
+    <string-array name="chest_video" translatable="false">
+        <item>R.raw.incline_dumbbell</item>
+        <item>R.raw.barbell_bench_press_incline_workout</item>
+        <item>R.raw.machine_chest_press_incline_workout</item>
+        <item>R.raw.side_to_side_push_up_workout</item>
+        <item>R.raw.chest_dip_weighted_workout</item>
+        <item>R.raw.dumbbell_fly_flat_bench_workout</item>
+        <item>R.raw.machine_fly_workout</item>
+    </string-array>
+
+    <!--    Thumbnail String Array-->
+    <string-array name="chest_thumbnail" translatable="false">
+        <item>R.drawable.dumbbellbenchpress</item>
+        <item>R.drawable.inclinebenchpress</item>
+        <item>R.drawable.machinechestpress</item>
+        <item>R.drawable.pushups</item>
+        <item>R.drawable.dip</item>
+        <item>R.drawable.chestfly</item>
+        <item>R.drawable.machinefly</item>
+    </string-array>
+
+    <!--    Muscle String End-->
+
+    <!--    Activity Array-->
+    <string-array name="activity_array" translatable="false">
+        <item>Abdomen</item>
+        <item>Back</item>
+        <item>Biceps and Forearm</item>
+        <item>Cardio</item>
+        <item>Chest</item>
+        <item>Leg</item>
+        <item>Shoulder</item>
+        <item>Triceps</item>
+    </string-array>
+
+    <!-- Main application strings   -->
+    <string name="app_name">शरीर काम करता है</string>
+    <string name="workouts">व्यायाम</string>
+    <string name="fitness_hub">फिटनेस हब</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">नमस्ते खाली टुकड़ा</string>
+    <string name="set_timer">टाइमर लगाएं</string>
+    <string name="set">तय करना</string>
+    <string name="zero">0</string>
+    <string name="setBtn">तय करना</string>
+    <string name="startBtn">शुरू</string>
+    <string name="resetBtn">रीसेट</string>
+    <string name="pause">विराम</string>
+    <string name="resume">फिर शुरू करना</string>
+    <string name="start">शुरू</string>
+    <string name="metric">मीट्रिक</string>
+    <string name="imperial">शाही</string>
+    <string name="your_current_bmi">आपका वर्तमान बीएमआई:</string>
+    <string name="_0">0</string>
+    <string name="kilogram">किलोग्राम</string>
+    <string name="centimeters">सेंटीमीटर</string>
+    <string name="feet">पैर</string>
+    <string name="inch">इंच</string>
+    <string name="calculate">गणना</string>
+    <string name="error">गलती</string>
+    <string name="change_the_language_description">भाषा बदलें</string>
+    <string name="choose_language_title">भाषा चुनें</string>
+    <string name="weight">वज़न</string>
+    <string name="weight_tracker_chart">वज़न ट्रैकर चार्ट</string>
+
+    <string name="bmiInfo">18.5 (नीला) से कम बीएमआई को कम वजन माना जाता है।\n\n18.5 से 24.9 (हरा) का बीएमआई स्वस्थ माना जाता है।\n\n25 से 29.9 (पीला) का बीएमआई अधिक वजन माना जाता है।\n\n30 का बीएमआई 39.9 (लाल) तक को मोटापा माना जाता है।\n\n40 या उससे अधिक (बैंगनी) के बीएमआई को अत्यधिक मोटापा माना जाता है।</string>
+    <!-- Days -->
+    <string name="monday">सोमवार</string>
+    <string name="tuesday">मंगलवार</string>
+    <string name="wednesday">बुधवार</string>
+    <string name="thursday">गुरुवार</string>
+    <string name="friday">शुक्रवार</string>
+    <string name="saturday">शनिवार</string>
+    <string name="sunday">रविवार</string>
+
+    <!-- Greetings -->
+    <string name="morning_greeting">शुभ प्रभात!</string>
+    <string name="afternoon_greeting">शुभ दोपहर!</string>
+    <string name="evening_greeting">शुभ संध्या!</string>
+    <string name="other_greeting">हैलो आज आप कैसे हैं\\?</string>
+
+    <string name="english">अंग्रेज़ी</string>
+    <string name="french">फ़्रेंच</string>
+    <string name="hindi">हिंदी</string>
+    <string name="spanish">स्पैनिश</string>
+
+
+    <!--  DailyWorkout Activity Strings  -->
+    <string name="daily_workout_planner">दैनिक कसरत योजनाकार</string>
+    <string name="daily_workout_planner_help">ऐप के दैनिक वर्कआउट प्लानर फ़ीचर का उपयोग करने के तरीके के बारे में सहायता प्राप्त करने के लिए फ़्लोटिंग बटन</string>
+    <string name="workout_selected_tab_text">कसरत की योजना बनाई</string>
+    <string name="plan_workouts_tab_text">वर्कआउट की योजना बनाएं</string>
+    <string name="today_s_exercise_label">आज का व्यायाम</string>
+    <string name="reset_button_text">रीसेट</string>
+    <string name="image_of_exercise">व्यायाम की छवि</string>
+    <string name="feet_hint">फीट</string>
+    <string name="inch_hint">इंच</string>
+    <string name="ok">ऒके</string>
+    <string name="bmi">बीएमआई</string>
+    <string name="weight_tracker">वज़न ट्रैकर</string>
+    <string name="save">सेव</string>
+    <string name="date_hint">तारीख</string>
+
+
+    <!-- Water Reminder Activity -->
+    <string name="water_reminder">जल अनुस्मारक</string>
+    <string name="get_reminder_title">अनुस्मारक प्राप्त करने के लिए अपना समय चुनें</string>
+    <string name="start_time">समय शुरू:</string>
+    <string name="end_time">अंत समय:</string>
+    <string name="select_start_time">प्रारंभ समय चुनें</string>
+    <string name="select_end_time">समाप्ति समय का चयन करें</string>
+    <string name="start_reminder">अनुस्मारक प्रारंभ करें</string>
+    <string name="enter_time_interval">समय अंतराल मिनटों में दर्ज करें</string>
+    <string name="add_item">मद जोड़ें</string>
+    <string name="total_calories_0">कुल कैलोरी: 0</string>
+    <string name="calorie_tracker">कैलोरी ट्रैकर</string>
+    <string name="water_drop_with_glass_image">कांच की छवि के साथ पानी की बूंद</string>
+    <string name="sleep_reminder_clock_with_sleep_image">नींद की छवि के साथ नींद अनुस्मारक घड़ी</string>
+    <string name="select_your_sleep_time_to_get_reminder">अनुस्मारक प्राप्त करने के लिए अपने सोने का समय चुनें</string>
+    <string name="select_sleep_time">सोने का समय चुनें</string>
+    <string name="select_sleep_time_label">सोने का समय चुनें:</string>
+
+    <!--    Diet Meal Plans-->
+    <string name="diet_meal_plans">आहार भोजन योजनाएँ</string>
+
+    <string name="gain_breakfast">साबुत अंडे या अंडे की सफेदी - साबुत अनाज टोस्ट या दलिया - ग्रीक दही - फल (केला, जामुन, आम, एवोकैडो, अनानास, सेब, अंगूर, कीवी, संतरे, नाशपाती) - मुट्ठी भर मेवे (बादाम, अखरोट, काजू, पेकान, ब्राज़ील नट्स, हेज़लनट्स, पिस्ता, मूंगफली, मैकाडामिया नट्स) - पनीर - साबुत अनाज क्रैकर</string>
+    <string name="gain_lunch">लीन प्रोटीन स्रोत (चिकन ब्रेस्ट, टर्की, मछली, लीन बीफ, टोफू, बीन्स, फलियां, समुद्री भोजन) - ब्राउन चावल या क्विनोआ - मिश्रित सब्जियां (आलू, मक्का, मटर, ब्रोकोली, फूलगोभी, पालक, गाजर, प्याज, बेल मिर्च) -स्वस्थ वसा (जैतून का तेल, एवोकैडो, नारियल तेल, अखरोट का मक्खन, चिया बीज, अलसी के बीज)</string>
+    <string name="gain_snacks">मट्ठा प्रोटीन, दूध, केला और मूंगफली का मक्खन के साथ प्रोटीन स्मूथी - पनीर या ह्यूमस के साथ साबुत अनाज क्रैकर</string>
+    <string name="gain_dinner">लीन प्रोटीन स्रोत (बीफ, पोल्ट्री, मछली, टोफू) - शकरकंद या ब्राउन चावल - मिश्रित सब्जियां - स्वस्थ वसा के लिए जैतून का तेल या एवोकैडो</string>
+    <string name="gain_pre_workout">चिकन और चावल का कटोरा-मूंगफली का मक्खन केला टोस्ट-टर्की और एवोकैडो रैप-प्रोटीन पाउडर के साथ दलिया</string>
+    <string name="gain_post_workout">ब्राउन राइस के साथ सैल्मन और क्विनोआ सलाद-बीफ स्टिर फ्राई-चिकन और स्वीट पोटैटो मैश-प्रोटीन पैक्ड बुरिटो बाउल-टर्की और हुम्मस के साथ होल ग्रेन रैप</string>
+
+    <string name="loose_breakfast">तले हुए अंडे या अंडे की सफेदी - साबुत अनाज टोस्ट या दलिया - ताजे फल (जामुन, सेब, अंगूर, नाशपाती, संतरे, तरबूज, आड़ू, आलूबुखारा, कीवी, चेरी, खरबूजा, पपीता) - मुट्ठी भर मेवे या बीज के साथ ग्रीक दही</string>
+    <string name="loose_lunch">ग्रील्ड चिकन या टोफू-क्विनोआ या ब्राउन चावल-उबले हुए या भुनी हुई सब्जियां (पालक, ब्रोकोली, फूलगोभी, गाजर, बेल मिर्च, तोरी, खीरे, टमाटर, गोभी, हरी बीन्स, बैंगन)-ड्रेसिंग के लिए जैतून का तेल या विनैग्रेट</string>
+    <string name="loose_snacks">सब्जी की छड़ियों के साथ हुम्मस (गाजर, ककड़ी, बेल मिर्च) - मुट्ठी भर चेरी टमाटर या पनीर का एक छोटा टुकड़ा</string>
+    <string name="loose_dinner">बेक्ड या ग्रिल्ड मछली (सैल्मन, तिलापिया, या कॉड) - शकरकंद या फूलगोभी चावल - हल्की ड्रेसिंग के साथ मिश्रित हरा सलाद</string>
+    <string name="loose_pre_workout">नट बटर के साथ साबुत अनाज टोस्ट-ग्रीक दही, फल-ओटमील के साथ प्रोटीन-केला, बादाम बटर-चिकन या टर्की रैप के साथ</string>
+    <string name="loose_post_workout">प्रोटीन पैक सलाद-तुर्की और सब्जियों के साथ साबुत अनाज लपेट-टोफू के साथ शाकाहारी स्टिर फ्राई-मीठा आलू और ब्लैक बीन बाउल-क्विनोआ के साथ चिकन या सैल्मन</string>
+
+    <string name="muscle_breakfast">4 से 6 साबुत अंडे (तले हुए या उबले हुए) - एक बड़ा चम्मच बादाम मक्खन के साथ साबुत अनाज टोस्ट या दलिया - जामुन के साथ ग्रीक दही - मट्ठा प्रोटीन, दूध, केला और एक बड़ा चम्मच मूंगफली मक्खन के साथ प्रोटीन स्मूदी - मुट्ठी भर बादाम या अखरोट</string>
+    <string name="muscle_lunch">ग्रील्ड चिकन या टोफू-क्विनोआ या ब्राउन चावल-उबले हुए या भुनी हुई सब्जियां (ब्रोकोली, पालक, गाजर, बेल मिर्च, शकरकंद, ब्रसेल्स स्प्राउट्स, फूलगोभी, टमाटर, पत्तागोभी, तोरी, प्याज, बैंगन, लहसुन)-जैतून का तेल या एवोकैडो स्वस्थ वसा</string>
+    <string name="muscle_snacks">पनीर या ग्रीक दही-साबुत अनाज क्रैकर या चावल केक-कटा हुआ खीरा और चेरी टमाटर</string>
+    <string name="muscle_dinner">बेक्ड या ग्रिल्ड सैल्मन या लीन बीफ - क्विनोआ या शकरकंद - जैतून के तेल आधारित ड्रेसिंग के साथ मिश्रित हरी सलाद - पानी या दूध के साथ कैसिइन प्रोटीन शेक (धीमी गति से पचने वाला प्रोटीन) - कम वसा वाले पनीर की एक छोटी सी सर्विंग या मुट्ठी भर मेवे</string>
+    <string name="muscle_pre_workout">चिकन और शकरकंद-नट बटर के साथ साबुत अनाज टोस्ट-ग्रीक दही-टर्की और एवोकैडो रैप-प्रोटीन पाउडर के साथ ओटमील</string>
+    <string name="muscle_post_workout">सैल्मन और क्विनोआ सलाद-चिकन और ब्राउन चावल-टोफू-प्रोटीन पैक्ड बुरिटो बाउल के साथ शाकाहारी स्टिर फ्राई-टर्की और हुम्मस के साथ साबुत अनाज लपेट</string>
+    <string name="diet_plan_warning">*ये आहार योजनाएं केवल सांकेतिक हैं। सर्वोत्तम प्रभाव के लिए, कृपया अपने आहार विशेषज्ञ से परामर्श लें।</string>
+    <string name="select_diet_plans">आहार योजनाएँ चुनें</string>
+    <string name="breakfast">नाश्ता</string>
+    <string name="lunch">दिन का खाना</string>
+    <string name="snack">नाश्ता</string>
+    <string name="dinner">रात का खाना</string>
+    <string name="pre_workout">पूर्व कसरत</string>
+    <string name="post_workout">कसरत के बाद</string>
+    <string name="workout_image">कसरत छवि</string>
+    <string name="select_workout_time_reminder">वर्कआउट टाइम रिमाइंडर चुनें</string>
+    <string name="select_workout_time">कसरत का समय चुनें</string>
+    <string name="select_workout_time_label">कसरत का समय चुनें</string>
+    <string name="workout_time_selected">कसरत का समय चयनित:</string>
+
+    <string-array name="diet_plans_name">
+        <item>वजन घटाने की योजना</item>
+        <item>वजन बढ़ाने की योजना</item>
+        <item>मांसपेशी लाभ योजना</item>
+    </string-array>
+
+    <string name="red">लाल</string>
+    <string name="orange">नारंगी</string>
+    <string name="brown">भूरा</string>
+
+    <string name="text_light_mode">वर्तमान मोड: प्रकाश मोड</string>
+    <string name="text_dark_mode">वर्तमान मोड: डार्क मोड</string>
+    <string name="dark_mode">डार्क मोड</string>
+
+    <!-- Timer Tone Selection-->
+    <string name="countdown">उलटी गिनती</string>
+    <string name="countdown_timer_digital">डिजिटल उलटी गिनती टाइमर</string>
+    <string name="stopwatch_ticking_mechanical">स्टॉपवॉच टिकिंग मैकेनिकल</string>
+    <string name="tick_tock_clock_timer">टिक टॉक घड़ी टाइमर</string>
+    <string name="nutritional_values_txt">पोषणीय मूल्य</string>
+    <string name="select_food_category">खाद्य श्रेणी का चयन करें</string>
+    <string name="nutritional_value_warning">* मूल्य 100 ग्राम प्रति हैं। ध्यान रखें कि ये मूल्य विभिन्न कारकों जैसे विविधता के आधार पर बदल सकते हैं, जैसे विभिन्न विधियों से पकाने की।</string>
+
+
+
+    <!-- Settings -->
+    <string name="settings">सेटिंग</string>
+    <string name="currently_using_metric">वर्तमान में उपयोग कर रहे हैं: मीट्रिक</string>
+    <string name="current_using_imperial">वर्तमान उपयोग: इंपीरियल</string>
+    <string name="measurement_unit">मापन इकाई</string>
+    <string name="sleep_time_selected">सोने का समय चयनित:</string>
+    <string name="sleep_reminder_btn">नींद अनुस्मारक</string>
+    <string name="workout_reminder_btn">कसरत अनुस्मारक</string>
+    <string name="lbs">एलबीएस</string>
+
+    <string-array name="food_categories">
+        <item>फल</item> <!-- Fruits -->
+        <item>प्रोटीन युक्त आहार</item> <!-- Protein Foods -->
+        <item>अनाज</item> <!-- Grains -->
+        <item>सब्जियां</item> <!-- Vegetables -->
+        <item>डेयरी</item> <!-- Dairy -->
+        <item>खाद्य बीज और बीजगाहर</item> <!-- Nuts and Seeds -->
+    </string-array>
+
+    <!-- फल -->
+    <string name="apple_name">सेब</string>
+    <string name="banana_name">केला</string>
+    <string name="orange_name">संतरा</string>
+    <string name="strawberries_name">स्ट्रॉबेरी</string>
+    <string name="pineapple_name">अनानास</string>
+    <string name="grapes_name">अंगूर</string>
+    <string name="mango_name">आम</string>
+    <string name="watermelon_name">तरबूज</string>
+    <string name="peach_name">आड़ू</string>
+    <string name="kiwi_name">कीवी</string>
+    <string name="apple_description">• कैलोरी: 52 कैलोरी\n• कार्बोहाइड्रेट: 14 ग्राम\n• फाइबर: 2.4 ग्राम\n• शुगर: 10 ग्राम\n• प्रोटीन: 0.3 ग्राम</string>
+    <string name="banana_description">• कैलोरी: 89 कैलोरी\n• कार्बोहाइड्रेट: 23 ग्राम\n• फाइबर: 2.6 ग्राम\n• शुगर: 12 ग्राम\n• प्रोटीन: 1.1 ग्राम</string>
+    <string name="orange_description">• कैलोरी: 43 कैलोरी\n• कार्बोहाइड्रेट: 9 ग्राम\n• फाइबर: 2.3 ग्राम\n• शुगर: 8.2 ग्राम\n• प्रोटीन: 1.0 ग्राम</string>
+    <string name="strawberries_description">• कैलोरी: 32 कैलोरी\n• कार्बोहाइड्रेट: 7.7 ग्राम\n• फाइबर: 2.0 ग्राम\n• शुगर: 4.9 ग्राम\n• प्रोटीन: 0.7 ग्राम</string>
+    <string name="pineapple_description">• कैलोरी: 50 कैलोरी\n• कार्बोहाइड्रेट: 13 ग्राम\n• फाइबर: 1.4 ग्राम\n• शुगर: 9.9 ग्राम\n• प्रोटीन: 0.5 ग्राम</string>
+    <string name="grapes_description">• कैलोरी: 69 कैलोरी\n• कार्बोहाइड्रेट: 18 ग्राम\n• फाइबर: 0.9 ग्राम\n• शुगर: 15 ग्राम\n• प्रोटीन: 0.6 ग्राम</string>
+    <string name="mango_description">• कैलोरी: 60 कैलोरी\n• कार्बोहाइड्रेट: 15 ग्राम\n• फाइबर: 1.6 ग्राम\n• शुगर: 14 ग्राम\n• प्रोटीन: 0.8 ग्राम</string>
+    <string name="watermelon_description">• कैलोरी: 30 कैलोरी\n• कार्बोहाइड्रेट: 8 ग्राम\n• फाइबर: 0.4 ग्राम\n• शुगर: 6 ग्राम\n• प्रोटीन: 0.6 ग्राम</string>
+    <string name="peach_description">• कैलोरी: 39 कैलोरी\n• कार्बोहाइड्रेट: 10 ग्राम\n• फाइबर: 1.5 ग्राम\n• शुगर: 8.4 ग्राम\n• प्रोटीन: 0.9 ग्राम</string>
+    <string name="kiwi_description">• कैलोरी: 61 कैलोरी\n• कार्बोहाइड्रेट: 15 ग्राम\n• फाइबर: 3 ग्राम\n• शुगर: 9 ग्राम\n• प्रोटीन: 1.1 ग्राम</string>
+
+    <!-- प्रोटीन भोजन -->
+    <string name="chicken_breast_name">चिकन ब्रेस्ट</string>
+    <string name="salmon_name">सैलमन</string>
+    <string name="egg_name">अंडा</string>
+    <string name="tofu_name">टोफू</string>
+    <string name="turkey_name">टर्की</string>
+    <string name="beef_name">बीफ</string>
+    <string name="pork_name">पॉर्क</string>
+    <string name="lentils_name">लेंटिल्स</string>
+    <string name="chickpeas_name">छोले</string>
+    <string name="quinoa_name">क्विनोआ</string>
+    <string name="chicken_breast_description">• कैलोरी: 165 कैलोरी\n• प्रोटीन: 31 ग्राम\n• कुल वसा: 3.6 ग्राम\n• सैचुरेटेड फैट: 1.0 ग्राम\n• कोलेस्ट्रॉल: 85 मिलीग्राम</string>
+    <string name="salmon_description">• कैलोरी: 206 कैलोरी\n• प्रोटीन: 22 ग्राम\n• कुल वसा: 13 ग्राम\n• सैचुरेटेड फैट: 2.0 ग्राम\n• ओमेगा-3 फैटी एसिड्स: 2.3 ग्राम</string>
+    <string name="egg_description">• कैलोरी: 68 कैलोरी\n• प्रोटीन: 5.5 ग्राम\n• कुल वसा: 4.8 ग्राम\n• सैचुरेटेड फैट: 1.6 ग्राम\n• कोलेस्ट्रॉल: 186 मिलीग्राम</string>
+    <string name="tofu_description">• कैलोरी: 144 कैलोरी\n• प्रोटीन: 15 ग्राम\n• कुल वसा: 8.0 ग्राम\n• सैचुरेटेड फैट: 1.1 ग्राम\n• कोलेस्ट्रॉल: 0 मिलीग्राम</string>
+    <string name="turkey_description">• कैलोरी: 135 कैलोरी\n• प्रोटीन: 29 ग्राम\n• कुल वसा: 1.7 ग्राम\n• सैचुरेटेड फैट: 0.5 ग्राम\n• कोलेस्ट्रॉल: 70 मिलीग्राम</string>
+    <string name="beef_description">• कैलोरी: 250 कैलोरी\n• प्रोटीन: 26 ग्राम\n• कुल वसा: 17 ग्राम\n• सैचुरेटेड फैट: 6.8 ग्राम\n• कोलेस्ट्रॉल: 94 मिलीग्राम</string>
+    <string name="pork_description">• कैलोरी: 143 कैलोरी\n• प्रोटीन: 25 ग्राम\n• कुल वसा: 4.4 ग्राम\n• सैचुरेटेड फैट: 1.5 ग्राम\n• कोलेस्ट्रॉल: 71 मिलीग्राम</string>
+    <string name="lentils_description">• कैलोरी: 116 कैलोरी\n• प्रोटीन: 9.0 ग्राम\n• कुल वसा: 0.4 ग्राम\n• सैचुरेटेड फैट: 0.1 ग्राम\n• कोलेस्ट्रॉल: 0 मिलीग्राम</string>
+    <string name="chickpeas_description">• कैलोरी: 164 कैलोरी\n• प्रोटीन: 8.9 ग्राम\n• कुल वसा: 2.6 ग्राम\n• सैचुरेटेड फैट: 0.3 ग्राम\n• कोलेस्ट्रॉल: 0 मिलीग्राम</string>
+    <string name="quinoa_description">• कैलोरी: 120 कैलोरी\n• प्रोटीन: 4.1 ग्राम\n• कुल वसा: 1.9 ग्राम\n• सैचुरेटेड फैट: 0.2 ग्राम\n• कोलेस्ट्रॉल: 0 मिलीग्राम</string>
+
+    <!-- अनाज -->
+    <string name="brown_rice_name">ब्राउन राइस</string>
+    <string name="barley_name">बार्ली</string>
+    <string name="oats_name">ओट्स</string>
+    <string name="whole_wheat_bread_name">होल व्हीट ब्रेड</string>
+    <string name="couscous_name">कसकस</string>
+    <string name="bulgur_name">बल्गर</string>
+    <string name="farro_name">फारो</string>
+    <string name="millet_name">बाजरा</string>
+    <string name="buckwheat_name">कुट्टू का आटा</string>
+    <string name="brown_rice_description">• कैलोरी: 111 कैलोरी\n• कार्बोहाइड्रेट: 23 ग्राम\n• फाइबर: 1.8 ग्राम\n• प्रोटीन: 2.6 ग्राम</string>
+    <string name="quinoa_description_v2">• कैलोरी: 120 कैलोरी\n• कार्बोहाइड्रेट: 21 ग्राम\n• फाइबर: 2.8 ग्राम\n• प्रोटीन: 4.1 ग्राम</string>
+    <string name="barley_description">• कैलोरी: 123 कैलोरी\n• कार्बोहाइड्रेट: 28 ग्राम\n• फाइबर: 4.0 ग्राम\n• प्रोटीन: 3.6 ग्राम</string>
+    <string name="oats_description">• कैलोरी: 68 कैलोरी\n• कार्बोहाइड्रेट: 12 ग्राम\n• फाइबर: 2.4 ग्राम\n• प्रोटीन: 2.4 ग्राम</string>
+    <string name="whole_wheat_bread_description">• कैलोरी: 247 कैलोरी\n• कार्बोहाइड्रेट: 49 ग्राम\n• फाइबर: 7.6 ग्राम\n• प्रोटीन: 12 ग्राम</string>
+    <string name="couscous_description">• कैलोरी: 176 कैलोरी\n• कार्बोहाइड्रेट: 36 ग्राम\n• फाइबर: 2.2 ग्राम\n• प्रोटीन: 6 ग्राम</string>
+    <string name="bulgur_description">• कैलोरी: 83 कैलोरी\n• कार्बोहाइड्रेट: 18 ग्राम\n• फाइबर: 5.6 ग्राम\n• प्रोटीन: 3 ग्राम</string>
+    <string name="farro_description">• कैलोरी: 170 कैलोरी\n• कार्बोहाइड्रेट: 34 ग्राम\n• फाइबर: 5.4 ग्राम\n• प्रोटीन: 7 ग्राम</string>
+    <string name="millet_description">• कैलोरी: 119 कैलोरी\n• कार्बोहाइड्रेट: 23 ग्राम\n• फाइबर: 1.7 ग्राम\n• प्रोटीन: 3.5 ग्राम</string>
+    <string name="buckwheat_description">• कैलोरी: 343 कैलोरी\n• कार्बोहाइड्रेट: 71 ग्राम\n• फाइबर: 10 ग्राम\n• प्रोटीन: 13 ग्राम</string>
+
+    <!-- सब्जियां -->
+    <string name="broccoli_name">ब्रोकोली</string>
+    <string name="spinach_name">पालक</string>
+    <string name="carrots_name">गाजर</string>
+    <string name="bell_peppers_name">बेल पेपर्स</string>
+    <string name="cauliflower_name">फूल गोभी</string>
+    <string name="zucchini_name">ज़ुकीनी</string>
+    <string name="sweet_potato_name">शकरकंद</string>
+    <string name="kale_name">केल</string>
+    <string name="asparagus_name">ऐस्पैरेगस</string>
+    <string name="tomato_name">टमाटर</string>
+    <string name="broccoli_description">• कैलोरी: 55 कैलोरी\n• कार्बोहाइड्रेट: 11 ग्राम\n• फाइबर: 3.7 ग्राम\n• प्रोटीन: 3.7 ग्राम</string>
+    <string name="spinach_description">• कैलोरी: 23 कैलोरी\n• कार्बोहाइड्रेट: 3.6 ग्राम\n• फाइबर: 2.2 ग्राम\n• प्रोटीन: 2.9 ग्राम</string>
+    <string name="carrots_description">• कैलोरी: 41 कैलोरी\n• कार्बोहाइड्रेट: 10 ग्राम\n• फाइबर: 2.8 ग्राम\n• प्रोटीन: 1 ग्राम</string>
+    <string name="bell_peppers_description">• कैलोरी: 31 कैलोरी\n• कार्बोहाइड्रेट: 7.6 ग्राम\n• फाइबर: 2.8 ग्राम\n• प्रोटीन: 1.2 ग्राम</string>
+    <string name="cauliflower_description">• कैलोरी: 25 कैलोरी\n• कार्बोहाइड्रेट: 5.3 ग्राम\n• फाइबर: 2.5 ग्राम\n• प्रोटीन: 2 ग्राम</string>
+    <string name="zucchini_description">• कैलोरी: 17 कैलोरी\n• कार्बोहाइड्रेट: 3.1 ग्राम\n• फाइबर: 1 ग्राम\n• प्रोटीन: 1.2 ग्राम</string>
+    <string name="sweet_potato_description">• कैलोरी: 86 कैलोरी\n• कार्बोहाइड्रेट: 20 ग्राम\n• फाइबर: 3 ग्राम\n• प्रोटीन: 2 ग्राम</string>
+    <string name="kale_description">• कैलोरी: 50 कैलोरी\n• कार्बोहाइड्रेट: 11 ग्राम\n• फाइबर: 2.6 ग्राम\n• प्रोटीन: 3.3 ग्राम</string>
+    <string name="asparagus_description">• कैलोरी: 20 कैलोरी\n• कार्बोहाइड्रेट: 3.7 ग्राम\n• फाइबर: 2 ग्राम\n• प्रोटीन: 2.2 ग्राम</string>
+    <string name="tomato_description">• कैलोरी: 18 कैलोरी\n• कार्बोहाइड्रेट: 4 ग्राम\n• फाइबर: 1.5 ग्राम\n• प्रोटीन: 1 ग्राम</string>
+
+    <!-- डेयरी -->
+    <string name="greek_yogurt_name">ग्रीक योगर्ट</string>
+    <string name="milk_name">दूध</string>
+    <string name="cheese_name">चीज़</string>
+    <string name="cottage_cheese_name">कॉटेज चीज़</string>
+    <string name="butter_name">मक्खन</string>
+    <string name="yogurt_name">दही</string>
+    <string name="soy_milk_name">सोया दूध</string>
+    <string name="almond_milk_name">बादाम दूध</string>
+    <string name="goat_cheese_name">बकरी का पनीर</string>
+    <string name="cream_name">क्रीम</string>
+    <string name="greek_yogurt_description">• कैलोरी: 59 कैलोरी\n• प्रोटीन: 10 ग्राम\n• कार्बोहाइड्रेट: 3.6 ग्राम\n• शुगर्स: 3.6 ग्राम</string>
+    <string name="milk_description">• कैलोरी: 61 कैलोरी\n• प्रोटीन: 3.2 ग्राम\n• कार्बोहाइड्रेट: 4.8 ग्राम\n• शुगर्स: 4.8 ग्राम</string>
+    <string name="cheese_description">• कैलोरी: 402 कैलोरी\n• प्रोटीन: 25 ग्राम\n• कुल वसा: 33 ग्राम\n• सैचुरेटेड फैट: 21 ग्राम\n• कोलेस्ट्रॉल: 100 मिलीग्राम</string>
+    <string name="cottage_cheese_description">• कैलोरी: 98 कैलोरी\n• प्रोटीन: 11 ग्राम\n• कार्बोहाइड्रेट: 3.4 ग्राम\n• शुगर्स: 2.3 ग्राम</string>
+    <string name="butter_description">• कैलोरी: 717 कैलोरी\n• कुल वसा: 81 ग्राम\n• सैचुरेटेड फैट: 51 ग्राम\n• कोलेस्ट्रॉल: 215 मिलीग्राम</string>
+    <string name="yogurt_description">• कैलोरी: 59 कैलोरी\n• प्रोटीन: 10 ग्राम\n• कार्बोहाइड्रेट: 3.6 ग्राम\n• शुगर्स: 3.6 ग्राम</string>
+    <string name="soy_milk_description">• कैलोरी: 33 कैलोरी\n• प्रोटीन: 3.3 ग्राम\n• कार्बोहाइड्रेट: 1.7 ग्राम\n• शुगर्स: 1 ग्राम</string>
+    <string name="almond_milk_description">• कैलोरी: 13 कैलोरी\n• प्रोटीन: 0.5 ग्राम\n• कार्बोहाइड्रेट: 0.6 ग्राम\n• शुगर्स: 0.1 ग्राम</string>
+    <string name="goat_cheese_description">• कैलोरी: 364 कैलोरी\n• प्रोटीन: 22 ग्राम\n• कुल वसा: 30 ग्राम\n• सैचुरेटेड फैट: 20 ग्राम\n• कोलेस्ट्रॉल: 59 मिलीग्राम</string>
+    <string name="cream_description">• कैलोरी: 340 कैलोरी\n• प्रोटीन: 2 ग्राम\n• कुल वसा: 36 ग्राम\n• सैचुरेटेड फैट: 22 ग्राम\n• कोलेस्ट्रॉल: 110 मिलीग्राम</string>
+
+    <!--  बीज और सुखा मेवे  -->
+    <string name="almonds_name">बादाम</string>
+    <string name="chia_seeds_name">चिया बीज</string>
+    <string name="walnuts_name">अखरोट</string>
+    <string name="flaxseeds_name">अलसी के बीज</string>
+    <string name="sunflower_seeds_name">सनफ्लावर के बीज</string>
+    <string name="pumpkin_seeds_name">कद्दू के बीज</string>
+    <string name="cashews_name">काजू</string>
+    <string name="peanuts_name">मूँगफली</string>
+    <string name="hazelnuts_name">हेज़लनट्स</string>
+    <string name="pistachios_name">पिस्ता</string>
+    <string name="almonds_description">• कैलोरी: 576 कैलोरी\n• प्रोटीन: 21 ग्राम\n• कुल वसा: 49 ग्राम\n• सैचुरेटेड फैट: 3.7 ग्राम\n• फाइबर: 12 ग्राम</string>
+    <string name="chia_seeds_description">• कैलोरी: 486 कैलोरी\n• प्रोटीन: 16.5 ग्राम\n• कुल वसा: 30.7 ग्राम\n• सैचुरेटेड फैट: 3.3 ग्राम\n• फाइबर: 34.4 ग्राम</string>
+    <string name="walnuts_description">• कैलोरी: 654 कैलोरी\n• प्रोटीन: 15 ग्राम\n• कुल वसा: 65 ग्राम\n• सैचुरेटेड फैट: 6.1 ग्राम\n• फाइबर: 7 ग्राम</string>
+    <string name="flaxseeds_description">• कैलोरी: 534 कैलोरी\n• प्रोटीन: 18 ग्राम\n• कुल वसा: 42 ग्राम\n• सैचुरेटेड फैट: 4 ग्राम\n• फाइबर: 27 ग्राम</string>
+    <string name="sunflower_seeds_description">• कैलोरी: 584 कैलोरी\n• प्रोटीन: 21 ग्राम\n• कुल वसा: 51 ग्राम\n• सैचुरेटेड फैट: 4.5 ग्राम\n• फाइबर: 8.6 ग्राम</string>
+    <string name="pumpkin_seeds_description">• कैलोरी: 574 कैलोरी\n• प्रोटीन: 30 ग्राम\n• कुल वसा: 49 ग्राम\n• सैचुरेटेड फैट: 8.7 ग्राम\n• फाइबर: 5.2 ग्राम</string>
+    <string name="cashews_description">• कैलोरी: 553 कैलोरी\n• प्रोटीन: 18 ग्राम\n• कुल वसा: 44 ग्राम\n• सैचुरेटेड फैट: 8.5 ग्राम\n• फाइबर: 3.3 ग्राम</string>
+    <string name="peanuts_description">• कैलोरी: 567 कैलोरी\n• प्रोटीन: 25 ग्राम\n• कुल वसा: 49 ग्राम\n• सैचुरेटेड फैट: 6.9 ग्राम\n• फाइबर: 8.5 ग्राम</string>
+    <string name="hazelnuts_description">• कैलोरी: 628 कैलोरी\n• प्रोटीन: 15 ग्राम\n• कुल वसा: 61 ग्राम\n• सैचुरेटेड फैट: 4.5 ग्राम\n• फाइबर: 9.7 ग्राम</string>
+    <string name="pistachios_description">• कैलोरी: 562 कैलोरी\n• प्रोटीन: 21 ग्राम\n• कुल वसा: 45 ग्राम\n• सैचुरेटेड फैट: 5.4 ग्राम\n• फाइबर: 10 ग्राम</string>
+</resources>

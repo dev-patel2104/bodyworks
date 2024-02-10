@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Bodyworks"
+        tools:targetApi="31">
+        <activity
+            android:name=".views.nutritionalValues.FoodNutritionalValues"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".views.workoutReminder.WorkoutReminder"
+            android:exported="false" />
+        <activity
+            android:name=".views.sleepReminder.SleepReminder"
+            android:exported="false" />
+        <activity
+            android:name=".views.dietPlans.DietMealPlans"
+            android:exported="false" />
+        <activity
+            android:name=".views.calorieTracker.CalorieTrackerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.waterReminder.WaterReminderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.weightTracker.WeightTracker"
+            android:exported="false" />
+        <activity
+            android:name=".views.workoutCategory.WorkoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.dailyWorkoutPlanner.DailyWorkoutPlanner"
+            android:exported="false" />
+        <activity
+            android:name=".views.bmiActivity.BmiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+
+        <receiver android:name=".views.waterReminder.StartAlarmReceiver" />
+        <receiver android:name=".views.waterReminder.EndAlarmReceiver" />
+        <receiver
+            android:name=".views.workoutReminder.WorkoutReminderReceiver"
+            android:enabled="true" />
+        <receiver
+            android:name=".views.sleepReminder.SleepReminderReceiver"
+            android:enabled="true" />
+    </application>
+
+</manifest>
